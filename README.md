@@ -10,7 +10,8 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-derar.ly-1E1E1E?style=for-the-badge&logo=safari&logoColor=white)](https://derar.ly)
 [![Email](https://img.shields.io/badge/CONTACT-walkthrough_on_request-6B655C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zzxxccz908@gmail.com)
 
-<sub>Architected & led by [Derar Ramadan](https://github.com/DerarRamadan) — Head of Programming @ Ministry of Agriculture, Libya</sub>
+<sub>Architected & led by [Derar Ramadan](https://github.com/DerarRamadan) — Head of Programming @ Ministry of Agriculture, Libya</sub><br/>
+<sub>Flagship product line of **Asas Al-Mateen for Technology & IT** — الأساس المتين للتقنية وتكنولوجيا المعلومات</sub>
 
 </div>
 
